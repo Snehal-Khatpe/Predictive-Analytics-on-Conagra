@@ -32,3 +32,5 @@ Targeting: Focus on households with 2+ people and the African American segment.
 Pricing Strategy: Balance lower and higher-priced brands to cater to diverse consumer segments.
 Product Innovation: Leverage consumer preferences for potential new products or line extensions.
 Regional Pricing: Address regional price disparities to standardize pricing.
+
+# As data is confidential no data or report files are attached here.
